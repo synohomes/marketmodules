@@ -18,8 +18,19 @@
     "category": "Administration",
     "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/proxv1.zip",
     "enabled": true
+  },
+    {
+    "id": "savev.1.zip",
+    "name": "savev.1.zip",
+    "description": "Un petit bouton dans les paramètres de votre profile pour enregistrer votre dossier utilisateur et téléchargement de ce dernier.",
+    "version": "1.2.3",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/proxv1.zip",
+    "enabled": true
   }
 ]
+
 
 
 
