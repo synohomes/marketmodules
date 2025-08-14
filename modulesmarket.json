@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "author": "SynoHomes",
     "category": "Productivité",
-    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/timer.zip",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/timer.zip",
     "enabled": false
   },
   {
@@ -20,6 +20,7 @@
     "enabled": false
   }
 ]
+
 
 
 
