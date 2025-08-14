@@ -18,18 +18,9 @@
     "category": "Administration",
     "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/proxv1.zip",
     "enabled": false
-  },
-  {
-    "id": "messenger",
-    "name": "Messenger",
-    "description": "Messagerie instantanée interne pour échanger avec votre équipe.",
-    "version": "0.9.5",
-    "author": "SynoHomes",
-    "category": "Communication",
-    "download_url": "https://github.com/TonCompte/DoMyDeskModules/raw/main/messenger.zip",
-    "enabled": false
   }
 ]
+
 
 
 
