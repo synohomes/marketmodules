@@ -7,7 +7,7 @@
     "author": "SynoHomes",
     "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/timer.zip",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "proxv1",
@@ -17,9 +17,10 @@
     "author": "SynoHomes",
     "category": "Administration",
     "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/proxv1.zip",
-    "enabled": false
+    "enabled": true
   }
 ]
+
 
 
 
