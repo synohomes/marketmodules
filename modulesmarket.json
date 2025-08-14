@@ -1,0 +1,35 @@
+[
+  {
+    "id": "timer",
+    "name": "timer",
+    "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/timer.zip",
+    "enabled": false
+  },
+  {
+    "id": "proxv1",
+    "name": "Proxmox Monitor",
+    "description": "Surveillez vos serveurs Proxmox et visualisez l'état des VM en direct.",
+    "version": "1.2.3",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/proxv1.zip",
+    "enabled": false
+  },
+  {
+    "id": "messenger",
+    "name": "Messenger",
+    "description": "Messagerie instantanée interne pour échanger avec votre équipe.",
+    "version": "0.9.5",
+    "author": "SynoHomes",
+    "category": "Communication",
+    "download_url": "https://github.com/TonCompte/DoMyDeskModules/raw/main/messenger.zip",
+    "enabled": false
+  }
+]
+
+
+
