@@ -1,4 +1,24 @@
 [
+   {
+    "id": "infra",
+    "name": "infra",
+    "description": "Infra vous aide à documenter toute votre infrastructure en un clin d’œil",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/infra.zip",
+    "enabled": true
+  },
+ {
+    "id": "meteo",
+    "name": "meteo",
+    "description": "Un petit module qui vous permet d'afficher la météo de une ou plusieurs villes en France",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/meteo.zip",
+    "enabled": true
+  },
   {
     "id": "timer",
     "name": "timer",
@@ -30,6 +50,7 @@
     "enabled": true
   }
 ]
+
 
 
 
