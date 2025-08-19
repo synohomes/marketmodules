@@ -1,4 +1,14 @@
 [
+      {
+    "id": "inventaire",
+    "name": "inventaire",
+    "description": "Inventaire modulable, ajouter des champs (date, nombre, texte long ou court), faites votre inventaire et exportez le en PDF en un clic",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/inventaire.zip",
+    "enabled": true
+  },
    {
     "id": "infra",
     "name": "infra",
@@ -50,6 +60,7 @@
     "enabled": true
   }
 ]
+
 
 
 
