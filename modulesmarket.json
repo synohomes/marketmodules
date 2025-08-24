@@ -1,4 +1,14 @@
 [
+        {
+    "id": "timer",
+    "name": "timer",
+    "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/timer.zip",
+    "enabled": false
+  },
       {
     "id": "inventaire",
     "name": "inventaire",
@@ -60,6 +70,7 @@
     "enabled": true
   }
 ]
+
 
 
 
