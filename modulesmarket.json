@@ -1,4 +1,14 @@
 [
+ {
+    "id": "map",
+    "name": "Map",
+    "description": "un petit 'GoogleMap' mais chez vous, gratuit, ajoutez une adresse postale ou géolocalisé la position",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/map.zip",
+    "enabled": true
+  },
       {
     "id": "inventaire",
     "name": "inventaire",
@@ -25,7 +35,7 @@
     "description": "Un petit module qui vous permet d'afficher la météo de une ou plusieurs villes en France",
     "version": "1.0.0",
     "author": "SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/meteo.zip",
     "enabled": true
   },
@@ -35,7 +45,7 @@
     "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
     "version": "1.0.0",
     "author": "SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/timer.zip",
     "enabled": true
   },
@@ -60,6 +70,7 @@
     "enabled": true
   }
 ]
+
 
 
 
