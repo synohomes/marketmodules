@@ -1,6 +1,6 @@
 [  {
-    "id": "timer",
-    "name": "timer",
+    "id": "timer2",
+    "name": "timer2",
     "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
     "version": "1.0.0",
     "author": "SynoHomes",
@@ -79,6 +79,7 @@
     "enabled": true
   }
 ]
+
 
 
 
