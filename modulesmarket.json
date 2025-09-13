@@ -2,37 +2,37 @@
   {
     "id": "blocnote",
     "name": "Bloc Note",
-"description": "🆓🔄Gardez vos idées, listes et notes toujours à portée de main. Accessible depuis votre tablette, ordinateur ou téléphone, votre bloc-note vous suit partout en un clin d'œil."
+    "description": "🆓🔄 Gardez vos idées, listes et notes toujours à portée de main. Accessible depuis votre tablette, ordinateur ou téléphone, votre bloc-note vous suit partout en un clin d'œil.",
     "version": "1.1",
     "author": "SynoHomes",
     "category": "Administration",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/blocnote.zip",
     "enabled": true
   },
- {
+  {
     "id": "candy",
     "name": "Fruitsx3",
-    "description": "🆓🔄 Détendez-vous avec un jeu de Candy coloré et addictif, jouable sur ordinateur, tablette ou téléphone, et reprenez votre partie où que vous soyez."
+    "description": "🆓🔄 Détendez-vous avec un jeu de Candy coloré et addictif, jouable sur ordinateur, tablette ou téléphone, et reprenez votre partie où que vous soyez.",
     "version": "1.0.0",
     "author": "SynoHomes & IA / Aucun partenariat avec l'éditeur du jeu Candy Crush",
     "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/candy.zip",
     "enabled": true
   },
-   {
+  {
     "id": "contact",
     "name": "Contact",
-    "description": "🆓🔄 Centralisez tous vos contacts en un seul endroit. Gérez noms, emails, adresses et notes depuis votre ordinateur, tablette ou téléphone, et retrouvez-les instantanément partout."
+    "description": "🆓🔄 Centralisez tous vos contacts en un seul endroit. Gérez noms, emails, adresses et notes depuis votre ordinateur, tablette ou téléphone, et retrouvez-les instantanément partout.",
     "version": "1.0.0",
     "author": "SynoHomes",
     "category": "Administration",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/contact.zip",
     "enabled": true
   },
- {
+  {
     "id": "ha",
     "name": "Remote HA",
-    "description": "🆓🔄 Pilotez et surveillez votre maison connectée en toute simplicité. Depuis votre ordinateur, tablette ou téléphone, contrôlez vos appareils et automatisez votre quotidien où que vous soyez."
+    "description": "🆓🔄 Pilotez et surveillez votre maison connectée en toute simplicité. Depuis votre ordinateur, tablette ou téléphone, contrôlez vos appareils et automatisez votre quotidien où que vous soyez.",
     "version": "1.0.0",
     "author": "SynoHomes / Aucun partenariat avec Home-Assistant",
     "category": "Administration",
@@ -42,9 +42,9 @@
   {
     "id": "infra",
     "name": "Infra",
-    "description": "🆓🔄 Supervisez facilement votre infrastructure. Gardez un œil sur vos serveurs, réseaux et services depuis votre ordinateur, tablette ou téléphone, et centralisez toutes vos infos techniques en un seul endroit."
+    "description": "🆓🔄 Supervisez facilement votre infrastructure. Gardez un œil sur vos serveurs, réseaux et services depuis votre ordinateur, tablette ou téléphone, et centralisez toutes vos infos techniques en un seul endroit.",
     "version": "1.0.0",
-    "author": "SynoHomes &",
+    "author": "SynoHomes",
     "category": "Administration",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/infra.zip",
     "enabled": true
@@ -52,60 +52,41 @@
   {
     "id": "map",
     "name": "Map",
-    "description": "🌐🆓 Visualisez vos emplacements, parcours et points d’intérêt sur une carte interactive. Accessible depuis ordinateur, tablette ou téléphone, pour retrouver vos repères en un clin d’œil partout."
+    "description": "🌐🆓 Visualisez vos emplacements, parcours et points d’intérêt sur une carte interactive. Accessible depuis ordinateur, tablette ou téléphone, pour retrouver vos repères en un clin d’œil partout.",
     "version": "1.1",
-    "author": "SynoHomes &",
+    "author": "SynoHomes",
     "category": "Administration",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/map.zip",
     "enabled": true
   },
-    {
-    "id": "netscaan",
+  {
+    "id": "netscan",
     "name": "Netscan",
-    "description": "🆓🔄 Analysez votre réseau en un instant. Détectez les appareils connectés, identifiez leurs adresses et gardez le contrôle de votre infrastructure depuis votre ordinateur, tablette ou téléphone."
+    "description": "🆓🔄 Analysez votre réseau en un instant. Détectez les appareils connectés, identifiez leurs adresses et gardez le contrôle de votre infrastructure depuis votre ordinateur, tablette ou téléphone.",
     "version": "1.1",
-    "author": "SynoHomes &",
+    "author": "SynoHomes",
     "category": "Administration",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/netscan.zip",
     "enabled": true
   },
-     {
-    "id": "pdfviwer",
+  {
+    "id": "pdfviewer",
     "name": "Pdf-Viewer",
-    "description": "🆓🔄 Lisez, ouvrez et gérez vos fichiers PDF directement depuis votre ordinateur, tablette ou téléphone. Accédez à vos documents en un clic et retrouvez-les partout où vous êtes."
+    "description": "🆓🔄 Lisez, ouvrez et gérez vos fichiers PDF directement depuis votre ordinateur, tablette ou téléphone. Accédez à vos documents en un clic et retrouvez-les partout où vous êtes.",
     "version": "1.1",
-    "author": "SynoHomes &",
+    "author": "SynoHomes",
     "category": "Bureautique",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/pdfviewer.zip",
     "enabled": true
   },
-      {
+  {
     "id": "photoframe",
     "name": "Album numérique",
-    "description": "🆓🔄 Transformez vos souvenirs en un diaporama élégant. Affichez vos photos préférées comme un cadre numérique, accessible depuis votre ordinateur, tablette ou téléphone."
+    "description": "🆓🔄 Transformez vos souvenirs en un diaporama élégant. Affichez vos photos préférées comme un cadre numérique, accessible depuis votre ordinateur, tablette ou téléphone.",
     "version": "1.1",
-    "author": "SynoHomes &",
+    "author": "SynoHomes",
     "category": "Maison / Perso / Publique",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/photoframe.zip",
     "enabled": true
-  },
+  }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
