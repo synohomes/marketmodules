@@ -1,5 +1,14 @@
 [
-
+  {
+    "id": "pdfviewer",
+    "name": "Pdf-Viewer",
+    "description": "🆓🔄 Lisez, ouvrez et gérez vos fichiers PDF directement depuis votre ordinateur, tablette ou téléphone. Accédez à vos documents en un clic et retrouvez-les partout où vous êtes.",
+    "version": "1.1",
+    "author": "SynoHomes",
+    "category": "Bureautique",
+    "download_url": "https://github.com/synohomes/marketmodules/blob/main/pdfviewer.zip",
+    "enabled": true
+  },
   {
     "id": "countdown",
     "name": "Countdown",
@@ -101,16 +110,6 @@
     "enabled": true
   },
   {
-    "id": "pdfviewer",
-    "name": "Pdf-Viewer",
-    "description": "🆓🔄 Lisez, ouvrez et gérez vos fichiers PDF directement depuis votre ordinateur, tablette ou téléphone. Accédez à vos documents en un clic et retrouvez-les partout où vous êtes.",
-    "version": "1.1",
-    "author": "SynoHomes",
-    "category": "Bureautique",
-    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/pdfviewer.zip",
-    "enabled": true
-  },
-  {
     "id": "photoframe",
     "name": "Album numérique",
     "description": "🆓🔄 Transformez vos souvenirs en un diaporama élégant. Affichez vos photos préférées comme un cadre numérique, accessible depuis votre ordinateur, tablette ou téléphone.",
@@ -121,6 +120,7 @@
     "enabled": true
   }
 ]
+
 
 
 
