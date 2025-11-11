@@ -1,4 +1,14 @@
 [
+            {
+    "id": "meteov2",
+    "name": "Météo",
+    "description": "🌐🔄 Afficher plusieurs météos du monde sur plusieurs jours.",
+    "version": "2",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": " https://github.com/synohomes/marketmodules/blob/main/meteov2.zip",
+    "enabled": true
+  },
       {
     "id": "countdown",
     "name": "Countdown",
@@ -8,7 +18,7 @@
     "category": "Productivité",
     "download_url": " https://github.com/synohomes/marketmodules/blob/main/countdown.zip",
     "enabled": true
-  },
+  }, 
     {
     "id": "proxv2",
     "name": "DMD Proxmox v2",
@@ -111,5 +121,6 @@
     "enabled": true
   }
 ]
+
 
 
