@@ -1,4 +1,14 @@
 [
+    {
+    "id": "proxv2",
+    "name": "DMD Proxmox v2",
+    "description": "Supervisez vos hôtes Proxmox en toute sécurité via DoMyDesk : multi-nœuds, actions, création VM ... NoVnc dans la version 3",
+    "version": "2",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/blob/main/proxv2.zip",
+    "enabled": true
+  },
   {
     "id": "blocnote",
     "name": "Bloc Note",
@@ -90,3 +100,4 @@
     "enabled": true
   }
 ]
+
