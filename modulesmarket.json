@@ -3,7 +3,7 @@
   {
     "id": "countdown",
     "name": "Countdown",
-    "description": "🆓🔄 Affiche plusieurs comptes à rebours thématiques sur le dashboard DoMyDesk.3",
+    "description": "🆓🔄 Affiche plusieurs comptes à rebours thématiques sur le dashboard DoMyDesk",
     "version": "1",
     "author": "SynoHomes",
     "category": "Productivité",
@@ -121,6 +121,7 @@
     "enabled": true
   }
 ]
+
 
 
 
