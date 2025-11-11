@@ -1,5 +1,5 @@
 [
-            {
+ {
     "id": "meteov2",
     "name": "Météo",
     "description": "🌐🔄 Afficher plusieurs météos du monde sur plusieurs jours.",
@@ -9,7 +9,7 @@
     "download_url": " https://github.com/synohomes/marketmodules/blob/main/meteov2.zip",
     "enabled": true
   },
-      {
+  {
     "id": "countdown",
     "name": "Countdown",
     "description": "🆓🔄 Affiche plusieurs comptes à rebours thématiques sur le dashboard DoMyDesk.3",
@@ -29,7 +29,6 @@
     "download_url": "https://github.com/synohomes/marketmodules/blob/main/proxv2.zip",
     "enabled": true
   },
-   
   {
     "id": "blocnote",
     "name": "Bloc Note",
@@ -121,6 +120,7 @@
     "enabled": true
   }
 ]
+
 
 
 
