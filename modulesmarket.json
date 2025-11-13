@@ -5,7 +5,7 @@
     "description": "🆓🔄 Un chronomètre, un timer directement sur votre dashboard ? C'est maintenant !",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Bureautique",
+    "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/blob/main/timer.zip",
     "enabled": true
   },
@@ -45,7 +45,7 @@
     "description": "🆓🔄 Supervisez vos hôtes Proxmox en toute sécurité via DoMyDesk : multi-nœuds, actions, création VM ... NoVnc dans la version 3",
     "version": "2",
     "author": "SynoHomes",
-    "category": "Administration",
+    "category": "Administration.TI",
     "download_url": "https://github.com/synohomes/marketmodules/blob/main/proxv2.zip",
     "enabled": true
   },
@@ -55,7 +55,7 @@
     "description": "🆓🔄 Gardez vos idées, listes et notes toujours à portée de main. Accessible depuis votre tablette, ordinateur ou téléphone, votre bloc-note vous suit partout en un clin d'œil.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Administration",
+    "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/blocnote.zip",
     "enabled": true
   },
@@ -65,7 +65,7 @@
     "description": "🆓🔄 Détendez-vous avec un jeu de Candy coloré et addictif, jouable sur ordinateur, tablette ou téléphone, et reprenez votre partie où que vous soyez.",
     "version": "1.0.0",
     "author": "SynoHomes & IA / Aucun partenariat avec l'éditeur du jeu Candy Crush",
-    "category": "Productivité",
+    "category": "Game",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/candy.zip",
     "enabled": true
   },
@@ -75,7 +75,7 @@
     "description": "🆓🔄 Centralisez tous vos contacts en un seul endroit. Gérez noms, emails, adresses et notes depuis votre ordinateur, tablette ou téléphone, et retrouvez-les instantanément partout.",
     "version": "1.0.0",
     "author": "SynoHomes",
-    "category": "Administration",
+    "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/contact.zip",
     "enabled": true
   },
@@ -85,7 +85,7 @@
     "description": "🆓🔄 Pilotez et surveillez votre maison connectée en toute simplicité. Depuis votre ordinateur, tablette ou téléphone, contrôlez vos appareils et automatisez votre quotidien où que vous soyez.",
     "version": "1.0.0",
     "author": "SynoHomes / Aucun partenariat avec Home-Assistant",
-    "category": "Administration",
+    "category": "Administration.TI",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/ha.zip",
     "enabled": true
   },
@@ -95,7 +95,7 @@
     "description": "🆓🔄 Supervisez facilement votre infrastructure. Gardez un œil sur vos serveurs, réseaux et services depuis votre ordinateur, tablette ou téléphone, et centralisez toutes vos infos techniques en un seul endroit.",
     "version": "1.0.0",
     "author": "SynoHomes",
-    "category": "Administration",
+    "category": "Administration.TI",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/infra.zip",
     "enabled": true
   },
@@ -105,7 +105,7 @@
     "description": "🌐🆓 Visualisez vos emplacements, parcours et points d’intérêt sur une carte interactive. Accessible depuis ordinateur, tablette ou téléphone, pour retrouver vos repères en un clin d’œil partout.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Administration",
+    "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/map.zip",
     "enabled": true
   },
@@ -115,7 +115,7 @@
     "description": "🆓🔄 Analysez votre réseau en un instant. Détectez les appareils connectés, identifiez leurs adresses et gardez le contrôle de votre infrastructure depuis votre ordinateur, tablette ou téléphone.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Administration",
+    "category": "Administration.TI",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/netscan.zip",
     "enabled": true
   },
@@ -125,11 +125,12 @@
     "description": "🆓🔄 Transformez vos souvenirs en un diaporama élégant. Affichez vos photos préférées comme un cadre numérique, accessible depuis votre ordinateur, tablette ou téléphone.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Maison / Perso / Publique",
+    "category": "Productivité",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/photoframe.zip",
     "enabled": true
   }
 ]
+
 
 
 
