@@ -1,4 +1,14 @@
 [
+     {
+    "id": "gamesnake",
+    "name": "Snake",
+    "description": "🆓🔄 Un petit moment de détente sur votre jeu préféré Snake3310.",
+    "version": "1.1",
+    "author": "SynoHomes",
+    "category": "Jeu",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/gamesnake.zip",
+    "enabled": true
+  },
     {
     "id": "GamePacMan",
     "name": "Pac_Man",
@@ -140,6 +150,7 @@
     "enabled": true
   }
 ]
+
 
 
 
