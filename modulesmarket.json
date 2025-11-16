@@ -1,7 +1,7 @@
 [
     {
     "id": "GamePacMan",
-    "name": "Jeu PacMani",
+    "name": "Pac_Man",
     "description": "🆓🔄 Un petit moment de détente sur votre jeu préféré Pac Man.",
     "version": "1.1",
     "author": "SynoHomes",
@@ -140,6 +140,7 @@
     "enabled": true
   }
 ]
+
 
 
 
