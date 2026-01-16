@@ -5,7 +5,7 @@
     "description": "🆓🔄 IPCalc est un outil tout-en-un qui calcule instantanément IPv4, IPv6, VLSM et sous-réseaux Auto-CIDR.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Jeu",
+    "category": "Admin IT",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/ipcalc.zip",
     "enabled": true
   },
@@ -15,7 +15,7 @@
     "description": "🆓🔄 Un petit moment de détente sur votre jeu préféré Snake3310.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Jeu",
+    "category": "Game",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/gamesnake.zip",
     "enabled": true
   },
@@ -25,7 +25,7 @@
     "description": "🆓🔄 Un petit moment de détente sur votre jeu préféré Pac Man.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Jeu",
+    "category": "Game",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/GamePacMan.zip",
     "enabled": true
   },
@@ -75,7 +75,7 @@
     "description": "🆓🔄 Supervisez vos hôtes Proxmox en toute sécurité via DoMyDesk : multi-nœuds, actions, création VM ... NoVnc dans la version 3",
     "version": "2",
     "author": "SynoHomes",
-    "category": "Administration.TI",
+    "category": "Admin IT",
     "download_url": "https://github.com/synohomes/marketmodules/blob/main/proxv2.zip",
     "enabled": true
   },
@@ -115,7 +115,7 @@
     "description": "🆓🔄 Pilotez et surveillez votre maison connectée en toute simplicité. Depuis votre ordinateur, tablette ou téléphone, contrôlez vos appareils et automatisez votre quotidien où que vous soyez.",
     "version": "1.0.0",
     "author": "SynoHomes / Aucun partenariat avec Home-Assistant",
-    "category": "Administration.TI",
+    "category": "Admin IT",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/ha.zip",
     "enabled": true
   },
@@ -125,7 +125,7 @@
     "description": "🆓🔄 Supervisez facilement votre infrastructure. Gardez un œil sur vos serveurs, réseaux et services depuis votre ordinateur, tablette ou téléphone, et centralisez toutes vos infos techniques en un seul endroit.",
     "version": "1.0.0",
     "author": "SynoHomes",
-    "category": "Administration.TI",
+    "category": "Admin IT",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/infra.zip",
     "enabled": true
   },
@@ -145,7 +145,7 @@
     "description": "🆓🔄 Analysez votre réseau en un instant. Détectez les appareils connectés, identifiez leurs adresses et gardez le contrôle de votre infrastructure depuis votre ordinateur, tablette ou téléphone.",
     "version": "1.1",
     "author": "SynoHomes",
-    "category": "Administration.TI",
+    "category": "Admin IT",
     "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/netscan.zip",
     "enabled": true
   },
@@ -160,6 +160,7 @@
     "enabled": true
   }
 ]
+
 
 
 
