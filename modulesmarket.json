@@ -71,7 +71,7 @@
   },
     {
     "id": "proxv2",
-    "name": "DMD Proxmox v2",
+    "name": "DMD Proxmox v2 - Version 2026",
     "description": "🆓🔄 Supervisez vos hôtes Proxmox en toute sécurité via DoMyDesk : multi-nœuds, actions, création VM ... NoVnc dans la version 3",
     "version": "2",
     "author": "SynoHomes",
@@ -111,7 +111,7 @@
   },
   {
     "id": "ha",
-    "name": "Remote HA",
+    "name": "Remote HomeAssistant - Version 2026",
     "description": "🆓🔄 Pilotez et surveillez votre maison connectée en toute simplicité. Depuis votre ordinateur, tablette ou téléphone, contrôlez vos appareils et automatisez votre quotidien où que vous soyez.",
     "version": "1.0.0",
     "author": "SynoHomes / Aucun partenariat avec Home-Assistant",
@@ -141,7 +141,7 @@
   },
   {
     "id": "netscan",
-    "name": "Netscan",
+    "name": "Netscan - Version 2026",
     "description": "🆓🔄 Analysez votre réseau en un instant. Détectez les appareils connectés, identifiez leurs adresses et gardez le contrôle de votre infrastructure depuis votre ordinateur, tablette ou téléphone.",
     "version": "1.1",
     "author": "SynoHomes",
